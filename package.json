@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/boosttype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Boost timestamps and type durations for scripts and CI receipts.",
+  "bin": {
+    "boosttype": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/boosttype.git"
+  },
+  "homepage": "https://theworker02.github.io/boosttype/",
+  "keywords": [
+    "boost",
+    "type",
+    "time",
+    "cli",
+    "toolkit"
+  ]
+}
